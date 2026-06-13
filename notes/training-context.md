@@ -113,3 +113,31 @@ Key: Don't cut calories aggressively. High protein (~160–165g/day) to preserve
 | Tempo | 4:25–4:35/km | 4:10–4:20/km | 4:00–4:05/km |
 | Intervals (OSSAAT group) | 4:00/km | 3:45/km | 3:30–3:45/km |
 | Race pace | 4:58/km (3:30) | 4:37/km (3:15) | 4:15/km (3:00) |
+
+## Gym Program
+**Program:** Jeff Nippard — Bodybuilding Transformation System, Intermediate-Advanced, Cycle 4
+**File:** data/gym-program-nippard-cycle4.csv
+**Structure:** 5-day PPL+ split — Legs / Upper (Strength) / Lower (Strength) / Pull (Hypertrophy) / Push (Hypertrophy)
+
+### Day mapping to run schedule
+| Day | Gym | Run | Conflict level |
+|---|---|---|---|
+| Monday | Legs (Leg Press, Bulgarian Split Squat, Leg Curl, Calf) | Recovery Run | Medium — do run FIRST |
+| Tuesday | Gym Rest | Intervals (OSSAAT 4:00→3:30/km) | None |
+| Wednesday | Upper (Bench, Pull-ups, Rows, Tri, Bi) | Medium-Long Run | Low — upper body only |
+| Thursday | Lower (Smith Squat, RDL, Leg Ext, Calf) | Easy Run | Medium-High — heavy legs before tempo |
+| Friday | Gym Rest | Tempo | None |
+| Saturday | Pull (Lat Pulldown, Rows, Rear Delt, Curls) | Rest | None |
+| Sunday | Push (Bench, Shoulder Press, Flyes, Tri, Abs) | Long Run | Low — upper body only |
+
+### Phase 3 gym reduction (from Week 31)
+Drop: Lower (Thu), Push (Sun)
+Keep: Legs (Mon), Upper (Wed), Pull (Sat)
+Rationale: removes heavy quad/hamstring work at peak running volume (~100km/week)
+
+### Key compatibility notes
+- Monday: Always run BEFORE Legs gym to protect Tuesday interval quality
+- Thursday: Keep squat/RDL at moderate intensity (RPE ~8, not full failure) to protect Friday tempo
+- Hip abduction/adduction on Legs day = excellent runner injury prevention — do NOT skip these
+- Bulgarian split squats + RDL = best running-specific strength exercises in the program — prioritise these
+- Calf raises on Legs and Lower = critical for achilles/calf injury prevention at high run volumes
